@@ -1,6 +1,6 @@
 # Reimagined Mod for Scratch
 
-Welcome to **Reimagined Mod**, By modification of Scratch
+Welcome to **Reimagined Mod**, My modification of Scratch
 
 ---
 
